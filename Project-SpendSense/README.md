@@ -12,7 +12,7 @@ SpendSense 是一個生活消費 Dashboard，可以幫助你分析你的生活�
 4. 查看類別花費長條圖
 5. 查看日期花費折線圖
 
-範例檔案：[sample_expenses.csv](https://github.com/darri/python-course-materials/blob/main/Project-SpendSense/data/sample_expenses.csv)
+範例檔案：[sample_expenses.csv](https://github.com/NTUST-Data-Analytics-Club/python-course-materials/blob/main/Project-SpendSense/data/sample.csv)
 
 ## 使用技術
 
